@@ -1,0 +1,4 @@
+com\mylocation\common\Response.class
+com\mylocation\dto\Location.class
+com\mylocation\api\LocationService.class
+com\mylocation\dto\LocationResult.class
